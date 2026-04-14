@@ -1,0 +1,16 @@
+export default {
+  loginTitle: 'Welcome',
+  loginSubtitle: 'Sign in to continue',
+  loginButton: 'Sign in',
+  logout: 'Sign out',
+  home: 'Home',
+  profile: 'Profile',
+  settings: 'Settings',
+  email: 'Email',
+  theme: 'Theme',
+  language: 'Language',
+  darkMode: 'Dark mode',
+  lightMode: 'Light mode',
+  aboutProfile: 'About profile',
+  save: 'Save',
+};

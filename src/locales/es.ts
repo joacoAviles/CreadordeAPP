@@ -1,0 +1,16 @@
+export default {
+  loginTitle: 'Bienvenido',
+  loginSubtitle: 'Inicia sesión para continuar',
+  loginButton: 'Ingresar',
+  logout: 'Cerrar sesión',
+  home: 'Inicio',
+  profile: 'Perfil',
+  settings: 'Configuración',
+  email: 'Correo',
+  theme: 'Tema',
+  language: 'Idioma',
+  darkMode: 'Modo oscuro',
+  lightMode: 'Modo claro',
+  aboutProfile: 'Acerca del perfil',
+  save: 'Guardar',
+};
